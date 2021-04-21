@@ -6,4 +6,10 @@
 
 </div>
 
+<div>
+  
 [![SaaeYun's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaaeYun)](https://github.com/SaaeYun/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaaeYun&layout=compact)](https://github.com/SaaeYun/github-readme-stats)
+
+</div>
