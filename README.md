@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=250&section=header&text=Hi there👋&fontSize=100" />
 
 I'm noob student developer.
+
 Don't miss my growth.
 
 <div align=center>
