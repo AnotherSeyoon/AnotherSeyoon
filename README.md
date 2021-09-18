@@ -12,8 +12,8 @@ Don't miss my growth.
 
 <div align=center>
   
-[![SaaeYun's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaaeYun&show_icons=true)](https://github.com/saaeyun/github-readme-stats)
+[![saaeyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=saaeyun&show_icons=true)](https://github.com/saaeyun/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaaeYun&layout=compact)](https://github.com/saaeyun/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saaeyun&layout=compact)](https://github.com/saaeyun/github-readme-stats)
 
 </div>
