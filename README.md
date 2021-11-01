@@ -3,8 +3,8 @@
 <br>
 
 * 🏫 I'm going to GSM
-* ✏️ I'm studying learning NLP, Python, Pytorch and.... React..!
-* 👟 Instagram: [saaeyun](https://www.instagram.com/saaeyun)
+* ✏️ I'm studying learning NLP, Python, Pytorch and Flask.
+* 👟 Instagram: [seyoo__n](https://www.instagram.com/seyoo__n)
 * 📫 Email: <issou0626@naver.com>  
 
 <br>
