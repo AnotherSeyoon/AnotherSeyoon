@@ -2,13 +2,6 @@
 
 <br>
 
-* 🏫 I'm going to GSM
-* ✏️ I'm studying learning NLP, Python, Pytorch and Flask.
-* 👟 Instagram: [seyoo__n](https://www.instagram.com/seyoo__n)
-* 📫 Email: <issou0626@naver.com>  
-
-<br>
-
 <div align=center>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2FDuggun&count_bg=%23B5E5FF&title_bg=%23FFD1E8&icon=bmw.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
